@@ -33,8 +33,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,jquery,php,py,sql,postgres,mysql" /><br>
-    <img src="https://skillicons.dev/icons?i=github,git,gcp,cloudflare,netlify,sqlite,qt,sketchup,threejs,vscode,autocad" />
+    <img src="https://skillicons.dev/icons?i=php,py,js,postgres,mysql,sqlite,git,vscode,bootstrap,jquery"/><br>
+    <img src="https://skillicons.dev/icons?i=github,html,css,gcp,cloudflare,netlify,qt,sketchup,threejs,autocad" />
 </div>
 
 <br/>
@@ -43,7 +43,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/touhidurrahman/touhidurrahman/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
