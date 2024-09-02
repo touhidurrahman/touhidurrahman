@@ -7,12 +7,8 @@
 <br/>
 
 <div align="left">
- 
- 🔭 I’m currently working on enriching **Smart Water Management Tools (SWMT)**, a WebGIS based software for Dhaka WASA. 
- 
- 🌱 I’m currently learning **Python and Machine Learning**
 
- 💬 Ask me about **GIS, WebGIS, Esri Product, ... or anything [here](https://github.com/touhidurrahman/touhidurrahman/issues)**
+ 💬 Ask me about **GIS or anything [here](https://github.com/touhidurrahman/touhidurrahman/issues)**
 
  </div>
  
